@@ -18,12 +18,14 @@
 .MMM-Wallpaper .title {
 	text-align: right;
 	position: absolute;
-	left: 50px;
-	top: calc(100% - 60px);
+	left: 30px;
+	top: calc(100% - 80px);
   font-family: Roboto, sans-serif;
   font-weight: 100;
 	font-size: 14px;
 	line-height: 25px;
+  mix-blend-mode: difference;
+  color: white;
 /*   -webkit-text-stroke-width: 1pt;
    -webkit-text-stroke-color: black;
 */}
